@@ -24,7 +24,7 @@ Ink!Gov provides a modular governance standard that simplifies development for I
 ### Project Details
 Ink!Gov is designed to streamline the creation and management of DAOs, providing developers with modular, reusable tools for decentralized decision-making. The primary goal is to enable seamless integration of governance logic into ink! smart contracts, ensuring full on-chain transparency and flexibility across Polkadot’s parachains.
 
-Developing governance systems for DAOs on blockchain poses challenges like double-voting, conflicting executions, and inconsistent states due to distributed participants. InkGov resolves these by providing an ACID-compliant transactional framework, ensuring synchronized asset verification, vote recording, and proposal execution across parachains.
+Developing governance systems for DAOs on blockchain poses challenges like double-voting, conflicting executions, and inconsistent states due to distributed participants. Ink!Gov resolves these by providing an ACID-compliant transactional framework, ensuring synchronized asset verification, vote recording, and proposal execution across parachains.
 
 **Key Benefits**
 
